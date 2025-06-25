@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <title> Simple Webpage</title>
+
+</head>
+<body>
+
+  <header>
+    <h1>Welcome </h1>
+    <p>Learning HTML, CSS, and JavaScript</p>
+  </header>
+
+  <main>
+    <h2>About This Page</h2>
+    <p>This is a simple webpage designed to demonstrate the use of basic HTML elements, CSS for styling, and JavaScript for interactivity.</p>
+
+    <h3>This is google logo:</h3>
+    <img src="data:image/jpeg;base64,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" alt="Sample Image" />
+
+    <p>Visit <a href="https://www.google.com/"target="_blank">Google.</a>Google is a widely used web search engine owned by Alphabet Inc .</p>
+
+    <button onclick="showMessage()">Click Me!</button>
+  </main>
+
+  <script>
+    
+    function showMessage() {
+      alert("Hello!");
+    }
+  </script>
+
+</body>
+</html>
+
+
+*CSS*
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f7fa;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+
+    header {
+      background-color: #4CAF50;
+      padding: 10px;
+      color: white;
+      text-align: center;
+      border-radius: 8px;
+    }
+
+    main {
+      margin-top: 20px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #2196F3;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background-color: #0b7dda;
+    }
